@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="324" height="324" viewBox="0 0 324 324">
-    <defs>
-        <radialGradient id="a" r="46.445%" fx="50%" fy="50%">
-            <stop offset="0%" stop-color="#FFCF61" stop-opacity=".8"/>
-            <stop offset="100%" stop-color="#FFDA49" stop-opacity="0"/>
-        </radialGradient>
-    </defs>
-    <circle cx="1144" cy="719" r="174" fill="url(#a)" fill-rule="evenodd" opacity=".65" transform="translate(-982 -557)"/>
-</svg>
